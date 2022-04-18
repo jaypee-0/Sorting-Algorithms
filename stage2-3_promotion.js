@@ -45,7 +45,7 @@ console.log(`Second array: ${arrayTwo}`);
 quick.quickSort(arrayThree);
 console.log(`Third array: ${arrayThree}`);
 /* Time Complexity:
-Average Case: 
-Worst Case: 
-Best Case:
+Average Case: O(n^log(n))
+Worst Case: O(n^2)
+Best Case: O(n^log(n))
 */
