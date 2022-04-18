@@ -1,0 +1,11 @@
+{
+  "name": "stage2-3_promotion",
+  "version": "1.0.0",
+  "description": "Implementation of various sorting algorithm",
+  "main": "bubbleSort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jaypee-0",
+  "license": "ISC"
+}
